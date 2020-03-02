@@ -1,11 +1,11 @@
 # Site settings
 author: Pablo Menz
-title: 
+title: getting ready for Programming 
 header-img: img/home-bg.png
 email: p.menz.r@gmail.com
 copyright_name: Pablo Menz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Hello world!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  pmenz
