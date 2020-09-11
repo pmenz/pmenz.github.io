@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " SELF AND MY TAKE ON IT"."
-date:       2020-09-11 03:39:36 +0000
+date:       2020-09-10 23:39:37 -0400
 permalink:  self_and_my_take_on_it
 ---
 
