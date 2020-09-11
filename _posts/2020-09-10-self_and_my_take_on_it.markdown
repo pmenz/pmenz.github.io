@@ -7,7 +7,7 @@ permalink:  self_and_my_take_on_it
 
 
 
-Self is has being one of the topics tha was not as easy topic to learn as others while learning Ruby, the word self in ruby is pretty much a conductor that will give you  back information about the object "itself" and the object that is receiving the message. This is clearly a little confusing and if you are new in thee coding world it will require some extra thinking. The first time you will see self (at least for me ) it was while creating a class method, like the next one;
+Self is has being one of the topics tha was not as easy to learn as others while learning Ruby, the word self in ruby is pretty much a conductor that will give you  back information about the object "itself" and the object that is receiving the message. This is clearly a little confusing and if you are new in thee coding world it will require some extra thinking. The first time you will see self (at least for me ) it was while creating a class method, like the next one;
 
 #### Class method:
 
